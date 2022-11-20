@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+}
+.grandParentContaniner{
+    display: table;
+    height: 100%;
+    margin: 0 auto;
+}
+.parentContainer{
+    display: table-cell;
+    vertical-align: middle;
+}
+.form-center{
+    margin: 20px 0;
+}
+.form-center form{
+    text-align: -webkit-center;
+    width: 50%;
+}
+td{
+    text-align: center;
+}
